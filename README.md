@@ -24,6 +24,11 @@ Payment method
 Tenure
 Monthly charges
 Additional services (Tech Support, Security, etc.)
+
+
+
+
+
 📌 Key Insights
 🔴 1. Overall Churn Rate
 Churn Rate: 26.54%
